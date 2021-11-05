@@ -1,4 +1,5 @@
-こんにちは。
+Hello!!
+
 ミネッチです。
 
 interested
