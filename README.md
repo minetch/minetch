@@ -15,4 +15,4 @@ Webのフロントエンド開発
 _趣味_
 ギター🎸
 
-![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=minetch)
+![minetch's github stats](https://github-readme-stats.vercel.app/api?username=minetch)
