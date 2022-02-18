@@ -16,3 +16,6 @@ _趣味_
 ギター🎸
 
 ![minetch's github stats](https://github-readme-stats.vercel.app/api?username=minetch)
+
+
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
